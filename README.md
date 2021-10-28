@@ -1,3 +1,3 @@
 # COVID19-VaccinationVSCases
 Comparison of amount on COVID cases, deaths and first and second dose of vaccination
-[COVID-19](https://hub.gke2.mybinder.org/user/catalinamanjarr-cinationvscases-wttpqj5t/voila/render/Catalina%20-%20COVID19.ipynb?token=tP0nUNE9SSOSfTtFHZZrqw)
+[COVID-19](https://mybinder.org/v2/gh/CatalinaManjarrez/COVID19-VaccinationVSCases.git/HEAD?urlpath=voila%2Frender%2FCatalina%20-%20COVID19.ipynb)
